@@ -25,7 +25,6 @@
 - [Techniques & Effects](#techniques--effects)
 - [People to Follow](#people-to-follow)
 - [Newsletters & Communities](#newsletters--communities)
-- [Related Lists](#related-lists)
 
 ## Learn
 
@@ -221,6 +220,8 @@
 
 Contributions are very welcome! Read the [contribution guidelines](contributing.md) first, then open a pull request. If you have suggestions but don't want to open a PR, you can also open an [issue](../../issues).
 
-## License
+---
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
