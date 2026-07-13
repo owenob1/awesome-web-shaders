@@ -109,7 +109,7 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 
 - [folio-2019](https://github.com/brunosimon/folio-2019) ⭐4.7k - Source for Bruno Simon's award-winning WebGL driving-game portfolio.
 - [my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) ⭐4.5k - An interactive 3D room with baked lighting and custom shaders.
-- [infinite-world](https://github.com/brunosimon/infinite-world) ⭐611 - A procedurally generated, infinite world in WebGL with Three.js.
+- [infinite-world](https://github.com/brunosimon/infinite-world) ⭐612 - A procedurally generated, infinite world in WebGL with Three.js.
 
 ## Examples & Demos
 
@@ -178,7 +178,7 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 - [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) ⭐1.8k - Optimize and shrink GLSL for production payloads.
 - [Shader Minifier](https://github.com/laurentlb/shader-minifier) ⭐569 - Minify and obfuscate GLSL or HLSL, popular in the demoscene.
 - [glslx](https://github.com/evanw/glslx) ⭐443 - A GLSL type checker, formatter, and minifier for WebGL.
-- [wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) ⭐678 - Language-server tooling (autocomplete, diagnostics) for WGSL.
+- [wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) ⭐679 - Language-server tooling (autocomplete, diagnostics) for WGSL.
 - [WESL](https://github.com/wgsl-tooling-wg/wesl-js) ⭐43 - A linker that adds imports and conditional compilation to WGSL.
 
 ### Node & Visual Editors
@@ -194,7 +194,7 @@ Resources for making AI coding agents (Claude Code, Cursor, Copilot, and friends
 
 - [threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐2.6k - Ten Claude Code skills for Three.js, including dedicated GLSL shader and post-processing skills.
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) ⭐1.1k - A Claude Code skill and Cursor ruleset for WebGPU, TSL, WGSL, compute, and post-processing.
-- [three-agent-skills](https://github.com/emalorenzo/three-agent-skills) ⭐37 - Multi-platform rules for Three.js and R3F with GLSL and TSL shader best practices.
+- [three-agent-skills](https://github.com/emalorenzo/three-agent-skills) ⭐38 - Multi-platform rules for Three.js and R3F with GLSL and TSL shader best practices.
 - [r3f-skills](https://github.com/EnzeD/r3f-skills) ⭐102 - A pack of React Three Fiber agent skills, including a dedicated shader-material skill.
 - [procedural-clouds-threejs](https://github.com/CK42BB/procedural-clouds-threejs) ⭐39 - A skill teaching WebGPU raymarched volumetric clouds with a WebGL 2 fallback.
 - [Claude Code Skill for Three.js WebGPU and TSL](https://threejsroadmap.com/blog/claude-code-skill-for-threejs-webgpu-and-tsl-development) - A walkthrough for setting up and using an agent skill for WebGPU and TSL.
