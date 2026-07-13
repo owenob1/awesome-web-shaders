@@ -26,6 +26,11 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
   - [Debuggers & Inspectors](#debuggers--inspectors)
   - [Compilers & Transpilers](#compilers--transpilers)
   - [Node & Visual Editors](#node--visual-editors)
+- [AI Agents & Skills](#ai-agents--skills)
+  - [Agent Skills & Rules](#agent-skills--rules)
+  - [MCP Servers](#mcp-servers)
+  - [Documentation for LLMs](#documentation-for-llms)
+  - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Playgrounds & Editors](#playgrounds--editors)
 - [Techniques & Effects](#techniques--effects)
 - [Learn](#learn)
@@ -180,6 +185,38 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 
 - [NodeToy](https://nodetoy.co) - A browser-based node editor that exports shaders directly to Three.js and R3F.
 - [shader-graph-wgsl](https://github.com/deepkolos/shader-graph-wgsl) ⭐124 - A Unity-style node-based shader graph editor that outputs WGSL.
+
+## AI Agents & Skills
+
+Resources for making AI coding agents (Claude Code, Cursor, Copilot, and friends) genuinely good at web shaders — agent skills, MCP servers, LLM-ready docs, and benchmarks. Entries are ranked by a transparent [scoring rubric](scoring.md) that weighs web-shader relevance, agent usability, maintenance, adoption, and openness. The skills below also make solid starting templates if you'd rather build your own suite.
+
+### Agent Skills & Rules
+
+- [threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐2.6k - Ten Claude Code skills for Three.js, including dedicated GLSL shader and post-processing skills.
+- [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) ⭐1.1k - A Claude Code skill and Cursor ruleset for WebGPU, TSL, WGSL, compute, and post-processing.
+- [three-agent-skills](https://github.com/emalorenzo/three-agent-skills) ⭐37 - Multi-platform rules for Three.js and R3F with GLSL and TSL shader best practices.
+- [r3f-skills](https://github.com/EnzeD/r3f-skills) ⭐102 - A pack of React Three Fiber agent skills, including a dedicated shader-material skill.
+- [procedural-clouds-threejs](https://github.com/CK42BB/procedural-clouds-threejs) ⭐39 - A skill teaching WebGPU raymarched volumetric clouds with a WebGL 2 fallback.
+- [Claude Code Skill for Three.js WebGPU and TSL](https://threejsroadmap.com/blog/claude-code-skill-for-threejs-webgpu-and-tsl-development) - A walkthrough for setting up and using an agent skill for WebGPU and TSL.
+
+### MCP Servers
+
+- [Shadertoy MCP App](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples/shadertoy-server) - An official Model Context Protocol app that renders Shadertoy-compatible GLSL fragment shaders live.
+- [ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP) ⭐47 - An MCP server that lets an agent search and read Shadertoy to learn from and generate GLSL.
+
+### Documentation for LLMs
+
+- [Three.js llms.txt](https://threejs.org/docs/llms.txt) - The official LLM-guidance doc for Three.js, covering WebGLRenderer, WebGPURenderer, and TSL.
+- [React Three Fiber llms.txt](https://r3f.docs.pmnd.rs/llms.txt) - An LLM-ready index of the React Three Fiber API to feed to your agent.
+- [Context7 — Three.js](https://context7.com/websites/threejs) - A continuously indexed, retrievable Three.js docs source for the Context7 MCP server.
+- [WESL llms.txt](https://wesl-lang.dev/llms.txt) - LLM-ready docs for WESL, a modular superset of the WGSL shading language.
+- [drei llms.txt](https://drei.docs.pmnd.rs/llms.txt) - An LLM-ready index of drei helpers, including shaderMaterial and effects.
+- [Babylon.js llms.txt](https://doc.babylonjs.com/llms.txt) - An LLM-ready index of the Babylon.js engine docs, covering WebGPU and WGSL.
+
+### Benchmarks & Datasets
+
+- [ShaderEval / shadermatch](https://huggingface.co/spaces/Vipitis/shadermatch) - The de-facto benchmark metric for evaluating LLM-generated shader code.
+- [Shadereval-inputs](https://huggingface.co/datasets/Vipitis/Shadereval-inputs) - A public dataset of reference shader functions and programs for benchmarking.
 
 ## Playgrounds & Editors
 
