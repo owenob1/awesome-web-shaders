@@ -188,7 +188,7 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 
 ## AI Agents & Skills
 
-Resources for making AI coding agents (Claude Code, Cursor, Copilot, and friends) genuinely good at web shaders — agent skills, MCP servers, LLM-ready docs, and benchmarks. Entries are ranked by a transparent [scoring rubric](scoring.md) that weighs web-shader relevance, agent usability, maintenance, adoption, and openness. The skills below also make solid starting templates if you'd rather build your own suite.
+Resources for making AI coding agents (Claude Code, Cursor, Copilot, and friends) genuinely good at web shaders — agent skills, MCP servers, LLM-ready docs, and benchmarks. Entries are ranked by a transparent [scoring rubric](scoring.md) that weighs web-shader relevance, agent usability, maintenance, adoption, and openness. To build your own setup, start from [web-shaders-agent-kit](https://github.com/owenob1/web-shaders-agent-kit) — a companion starter suite (skill, cross-tool rules, an `llms.txt` doc manifest, MCP config, and a system prompt) maintained alongside this list.
 
 ### Agent Skills & Rules
 
