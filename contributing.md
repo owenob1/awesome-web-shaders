@@ -11,6 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Prefer resources that are **high quality, actively maintained, and widely respected**. A new or niche resource should be genuinely excellent to earn a spot.
 - Add one link per pull request when possible, and add it to the bottom of the appropriate category.
 - Use the following format: `- [Name](link) - Description.`
+- Don't add ⭐ star counts by hand — a weekly GitHub Action adds and refreshes them on GitHub repo links automatically.
 - The description should be clear, concise, and start with a capital letter and end with a period.
 - Keep descriptions short — ideally under ~20 words. Don't editorialize or use marketing language.
 - Link the resource's canonical homepage or repository, not a mirror or aggregator.
