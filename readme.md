@@ -61,11 +61,11 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 
 ### WebGPU
 
-- [wgpu-matrix](https://github.com/greggman/wgpu-matrix) ⭐472 - Fast matrix and vector math tuned for WebGPU and WGSL layouts.
+- [wgpu-matrix](https://github.com/greggman/wgpu-matrix) ⭐473 - Fast matrix and vector math tuned for WebGPU and WGSL layouts.
 - [webgpu-utils](https://github.com/greggman/webgpu-utils) ⭐310 - Helpers for uniform buffers, textures, and boilerplate around WebGPU.
 - [TypeGPU](https://github.com/software-mansion/TypeGPU) ⭐2.7k - Type-safe WebGPU with WGSL authored from TypeScript.
 - [use.gpu](https://usegpu.live/) - Declarative, reactive WebGPU rendering with live shader composition.
-- [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐286 - A WGSL parser and reflection library for JavaScript.
+- [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐289 - A WGSL parser and reflection library for JavaScript.
 
 ### Three.js Ecosystem
 
@@ -135,25 +135,25 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 - [Orillusion WebGPU Samples](https://github.com/Orillusion/orillusion-webgpu-samples) ⭐269 - Standalone, basic WebGPU samples from the Orillusion team.
 - [shader-school](https://github.com/stackgl/shader-school) ⭐4.4k - A workshopper teaching GLSL shaders and graphics programming from the terminal.
 - [webgl-workshop](https://github.com/stackgl/webgl-workshop) ⭐1.5k - The sequel to shader-school, teaching the WebGL API interactively.
-- [akella — WebGL Image Transitions](https://github.com/akella/webGLImageTransitions) ⭐484 - Source for a popular set of shader-driven image transition demos.
-- [WebGPU Ray Tracer](https://github.com/gnikoloff/webgpu-raytracer) ⭐183 - A real-time path tracer built on WebGPU compute shaders.
+- [akella — WebGL Image Transitions](https://github.com/akella/webGLImageTransitions) ⭐486 - Source for a popular set of shader-driven image transition demos.
+- [WebGPU Ray Tracer](https://github.com/gnikoloff/webgpu-raytracer) ⭐185 - A real-time path tracer built on WebGPU compute shaders.
 
 ## Shader Utilities
 
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐3.4k - A granular, cross-language (GLSL/WGSL/HLSL) shader library of reusable functions; the modern standard.
 - [glsl-noise](https://github.com/hughsk/glsl-noise) ⭐407 - Classic, simplex, and periodic noise functions as importable GLSL modules.
-- [webgl-noise](https://github.com/stegu/webgl-noise) ⭐587 - Ashima Arts' well-known, dependency-free noise implementations.
+- [webgl-noise](https://github.com/stegu/webgl-noise) ⭐588 - Ashima Arts' well-known, dependency-free noise implementations.
 - [glNoise](https://github.com/FarazzShaikh/glNoise) ⭐252 - GLSL noise functions with an easy JavaScript API for WebGL.
 - [glsl-easings](https://github.com/glslify/glsl-easings) ⭐465 - Robert Penner's easing equations ported to GLSL.
 - [glsl-blend](https://github.com/jamieowen/glsl-blend) ⭐1.1k - Photoshop-style blend modes as GLSL functions.
-- [glsl-fast-gaussian-blur](https://github.com/Experience-Monks/glsl-fast-gaussian-blur) ⭐746 - An optimized single-pass separable Gaussian blur for GLSL.
-- [glsl-film-grain](https://github.com/mattdesl/glsl-film-grain) ⭐205 - Animated film-grain noise as a GLSL module.
-- [glsl-lut](https://github.com/mattdesl/glsl-lut) ⭐184 - Apply color-grading lookup tables in a GLSL shader.
+- [glsl-fast-gaussian-blur](https://github.com/Experience-Monks/glsl-fast-gaussian-blur) ⭐747 - An optimized single-pass separable Gaussian blur for GLSL.
+- [glsl-film-grain](https://github.com/mattdesl/glsl-film-grain) ⭐206 - Animated film-grain noise as a GLSL module.
+- [glsl-lut](https://github.com/mattdesl/glsl-lut) ⭐185 - Apply color-grading lookup tables in a GLSL shader.
 - [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) ⭐634 - Rayleigh and Mie atmospheric scattering as a GLSL function.
 - [glsl-sdf-primitives](https://github.com/marklundin/glsl-sdf-primitives) ⭐206 - Signed-distance-field primitives for raymarching in GLSL.
 - [glslify](https://github.com/glslify/glslify) ⭐2.3k - A module system for GLSL that enables the npm ecosystem above.
 - [glsl-hsv2rgb](https://github.com/hughsk/glsl-hsv2rgb) ⭐29 - Compact color-space conversion helpers for shaders.
-- [tsl-textures](https://github.com/boytchev/tsl-textures) ⭐264 - A collection of procedural textures written in Three.js Shading Language.
+- [tsl-textures](https://github.com/boytchev/tsl-textures) ⭐265 - A collection of procedural textures written in Three.js Shading Language.
 - [shader-park-core](https://github.com/shader-park/shader-park-core) ⭐823 - A JavaScript library for authoring real-time 2D and 3D SDF shaders.
 
 ## Tools
@@ -167,7 +167,7 @@ Some entries are marked as desktop- or engine-oriented (e.g. Unity, OpenGL); the
 ### Debuggers & Inspectors
 
 - [Spector.js](https://github.com/BabylonJS/Spector.js) ⭐1.6k - Capture and inspect every WebGL draw call, uniform, and shader.
-- [WebGPU Inspector](https://github.com/brendan-duncan/webgpu_inspector) ⭐350 - A browser extension for debugging WebGPU commands and shaders.
+- [WebGPU Inspector](https://github.com/brendan-duncan/webgpu_inspector) ⭐353 - A browser extension for debugging WebGPU commands and shaders.
 
 ### Compilers & Transpilers
 
@@ -192,11 +192,11 @@ Resources for making AI coding agents (Claude Code, Cursor, Copilot, and friends
 
 ### Agent Skills & Rules
 
-- [threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐2.8k - Ten Claude Code skills for Three.js, including dedicated GLSL shader and post-processing skills.
+- [threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐2.9k - Ten Claude Code skills for Three.js, including dedicated GLSL shader and post-processing skills.
 - [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) ⭐1.1k - A Claude Code skill and Cursor ruleset for WebGPU, TSL, WGSL, compute, and post-processing.
-- [three-agent-skills](https://github.com/emalorenzo/three-agent-skills) ⭐40 - Multi-platform rules for Three.js and R3F with GLSL and TSL shader best practices.
-- [r3f-skills](https://github.com/EnzeD/r3f-skills) ⭐105 - A pack of React Three Fiber agent skills, including a dedicated shader-material skill.
-- [procedural-clouds-threejs](https://github.com/CK42BB/procedural-clouds-threejs) ⭐39 - A skill teaching WebGPU raymarched volumetric clouds with a WebGL 2 fallback.
+- [three-agent-skills](https://github.com/emalorenzo/three-agent-skills) ⭐42 - Multi-platform rules for Three.js and R3F with GLSL and TSL shader best practices.
+- [r3f-skills](https://github.com/EnzeD/r3f-skills) ⭐106 - A pack of React Three Fiber agent skills, including a dedicated shader-material skill.
+- [procedural-clouds-threejs](https://github.com/CK42BB/procedural-clouds-threejs) ⭐40 - A skill teaching WebGPU raymarched volumetric clouds with a WebGL 2 fallback.
 - [Claude Code Skill for Three.js WebGPU and TSL](https://threejsroadmap.com/blog/claude-code-skill-for-threejs-webgpu-and-tsl-development) - A walkthrough for setting up and using an agent skill for WebGPU and TSL.
 
 ### MCP Servers
